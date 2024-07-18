@@ -1,0 +1,18 @@
+.main{
+    background-color: rgba(5, 198, 89, 0.954);
+    height: 100px;
+    width: 100px;
+}
+.local{
+    background-color: rgb(116, 230, 148);
+    height: 100px;
+    width: 100px;
+}
+table{
+    border-spacing: 0rem;
+    border: 5px solid black;
+}
+table td img{
+    width: 100px;
+    height: 100px;
+}
